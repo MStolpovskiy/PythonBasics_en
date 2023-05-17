@@ -1,18 +1,17 @@
 # PythonBasics
-Курс изучения программирования на Python3
+Python3 programming course
 
-Курс ориентирован на желающих изучать data science, но может использоваться и всеми желающими изучить питон. Примерный список тем:
+The course is aimed at those wishing to learn data science, but can also be used by anyone wishing to learn python. A brief list of topics:
 
-- Базовые операции
-- Типы
-- Функции
-- Рекурсия
-- Классы
+- Basic operations
+- Types
+- Functions
+- Recursion
+- Classes
 
-Внутри вы найдете множество практических заданий. 
-Пройти все можно примерно недели за две спокойным темпом. 
-Хотя курс покрывает все основные понятия, здесь вы не найдете многих продвинутых тем, например таких как декораторы.
-Предполагается, что освоив базу, студент начнет сразу использовать ее и сможет восполнить недостаток специализированных знаний самостоятельно.
+Inside you will find plenty of practical exercises.
+You can get through them all in about two weeks at a relaxed pace.
+Although the course covers all the basic concepts, you won't find many advanced topics like decorators.
+It is assumed that once the student has mastered the basics, they will start using them straight away and can make up for any lack of specialised knowledge on their own.
 
-Установка питона: 
-https://docs.anaconda.com/anaconda/install/
+[Python installation link](https://docs.anaconda.com/anaconda/install/)
